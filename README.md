@@ -5,7 +5,8 @@
     </h1>
 
   <h3 align="center">
-  Desafio 02 GoStack Rocketseat
+  Desafio 02: Conceitos do Node.js
+  - GoStack Rocketseat
   </h3>
     Made By
    <strong align="center">Flávio Pinto de Oliveira Segundo</strong></a>
